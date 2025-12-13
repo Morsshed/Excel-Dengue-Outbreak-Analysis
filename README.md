@@ -14,3 +14,7 @@ Dengue Disease Infection Analysis
 ![Dengue Outbreak Analysis — Data Profiling](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/ExcelImages/Data%20Profiling.png)
 
 ### Dataset
+
+[Download Dengue Dataset from Kaggle](https://www.kaggle.com/datasets/dipayancodes/dengue)
+
+![Original Dataset – Dengue Outbreak Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/ExcelImages/Original%20Dataset.png)
