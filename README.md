@@ -44,6 +44,21 @@ This analysis examines a dataset of 1,000 individuals across 36 affected areas i
 
 ► What preventive strategies can minimize future dengue outbreaks?
 
+### Tools & Skills Used
+
+                       Microsoft Excel (Advanced)
+                       
+                       Pivot Tables & Pivot Charts
+                       
+                       Power Query (data transformation)
+                       
+                       Excel formulas (IF, COUNTIFS, DATEDIF)
+                       
+                       Data visualization & dashboard design
+                       
+                       Public health data analysis
+
+
 #### Findings
 
 ###### Population & Overall Infection
