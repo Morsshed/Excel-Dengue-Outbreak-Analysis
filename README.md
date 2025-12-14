@@ -4,6 +4,44 @@ Dengue Disease Infection Analysis
 ## Excel Interactive Dashboard (Snapshot)
 ![Dengue Demographic Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/Dengue%20Demographic%20Analysis.png)
 
+## Problem Statement
+
+Dengue fever has emerged as a significant public health challenge in Bangladesh, particularly in densely populated urban areas. Rapid urbanization, inadequate waste management, and climate conditions have contributed to the increasing spread of dengue infections. Health authorities require data-driven insights to identify high-risk populations, affected regions, and infection patterns in order to design targeted interventions and reduce disease severity and recurrence. This project aims to analyze, visualize, and interpret dengue infection data to uncover demographic, geographic, and clinical trends that can support early detection, effective resource allocation, and preventive healthcare planning.
+
+### Brief Description
+
+This analysis examines a dataset of 1,000 individuals across 36 affected areas in Bangladesh to understand how dengue infections vary by age, gender, location, housing conditions, and infection history. The study focuses on identifying infection intensity, recurrence patterns, and early vs late-stage detection, using interactive dashboards and visual analytics.By integrating demographic and geographic insights, the project supports evidence-based decision-making for public health officials, enabling them to prioritize high-risk zones, vulnerable groups, and preventive strategies to control dengue outbreaks more effectively.
+
+### Key Issues:
+
+What is the overall dengue infection rate, and how severe is the outbreak?
+
+Which age groups are most affected by dengue infections?
+
+Are there gender-based differences in dengue susceptibility?
+
+Which geographic areas report the highest number of infections?
+
+How does housing type and area development influence infection rates?
+
+What proportion of patients are new vs previously infected?
+
+How prevalent are repeated dengue infections, and what risks do they pose?
+
+At what stage are most infections detected (early vs late stage)?
+
+Which population groups are at higher risk of severe dengue outcomes?
+
+How can early diagnosis trends improve healthcare response?
+
+Which areas should be prioritized for mosquito control programs?
+
+What insights can help reduce reinfection and recurrence rates?
+
+How can demographic data support targeted public health campaigns?
+
+What preventive strategies can minimize future dengue outbreaks?
+
 #### Findings
 
 ###### Population & Overall Infection
