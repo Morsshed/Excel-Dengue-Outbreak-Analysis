@@ -165,3 +165,8 @@ This analysis examines a dataset of 1,000 individuals across 36 affected areas i
 Click to view [Download Dengue Dataset from Kaggle](https://www.kaggle.com/datasets/dipayancodes/dengue)
 
 ![Original Dataset – Dengue Outbreak Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/ExcelImages/Original%20Dataset.png)
+
+##  Analyses Details
+
+![Dengue Analysis Details](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/ExcelImages/Dnegue%20Analysis%20Details.jpeg)
+
