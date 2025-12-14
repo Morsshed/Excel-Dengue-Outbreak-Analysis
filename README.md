@@ -166,7 +166,9 @@ Click to view [Download Dengue Dataset from Kaggle](https://www.kaggle.com/datas
 
 ![Original Dataset – Dengue Outbreak Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/ExcelImages/Original%20Dataset.png)
 
-##  Analyses Details
+
+##  Analyses Details (Snapshots)
+
 
 ![Dengue Analysis Details](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/ExcelImages/Dnegue%20Analysis%20Details.jpeg)
 
