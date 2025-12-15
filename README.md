@@ -1,8 +1,6 @@
 # Dengue-Outbreak-Analysis
 Dengue Disease Infection Analysis
 
-► ● ✓ ○
-
 ## Excel Interactive Dashboard (Snapshot)
 ![Dengue Demographic Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dengue-Outbreak-Analysis/main/Dengue%20Demographic%20Analysis.png)
 
